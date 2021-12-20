@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958826312515",
+    "project_id": "loginauth-c460f",
+    "storage_bucket": "loginauth-c460f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958826312515:android:f882e2edc253aa88f435f6",
+        "android_client_info": {
+          "package_name": "com.tp.loginauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958826312515-u15vvjgq636fb5nd80it5fhlm2kfcb27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASng1Tb9SLAr4U2n6-r-U3mXo_qwIdY8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958826312515-u15vvjgq636fb5nd80it5fhlm2kfcb27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
